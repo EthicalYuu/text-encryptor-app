@@ -1,5 +1,11 @@
 # Encryption and Decryption Application
 
+> **⚠️ Note:**  
+> **This project is an old project created while I was learning programming.**  
+> The code does not follow modern best practices and may need refactoring.  
+> It serves as a learning example and is not maintained according to current standards.  
+> **However, it still works as expected.**
+
 ## Overview
 This application provides a simple interface for encrypting and decrypting messages using the Fernet symmetric encryption and RSA asymmetric encryption algorithms. It also allows users to generate encryption keys and encrypt or decrypt files. The application is built using Python's Tkinter for the graphical user interface and integrates the cryptography library for encryption and decryption.
 
